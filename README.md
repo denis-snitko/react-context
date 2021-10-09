@@ -1,2 +1,1 @@
-# react-context
-Простой пример работы React.Context + useReducer
+Простой пример React Context. Применяются хуки useReducer и useContext
